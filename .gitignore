@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+.env
+.vscode/
+venv/
+fine_tuned_model2/
+sentiment_model/
+processed_dataset/
+config/
+distilbert_tokenizer/
+test/
+tzdl.py
+sentiment_api copy.py
