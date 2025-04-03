@@ -34,7 +34,7 @@
 
  1. **Clone the Repository**
     ```sh
-    git clone https://github.com/YOUR_USERNAME/VibeCheck.git
+    git clone https://github.com/DejviUka/VibeCheck.git
     cd VibeCheck
     ```
 
